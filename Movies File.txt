@@ -1,0 +1,10 @@
+Movie	Movies Available	 	Price 
+Code      
+
+
+1.	SanAndreas.			300
+
+2.	Fast & Furious.			300
+
+3.	Avengers.			300
+     
