@@ -1,0 +1,16 @@
+Product	Products Available			Price
+Code
+
+1. 	Loreal Shampoo				300
+	
+2. 	Skin White Face Wash			150
+
+3. 	Dove Soap				100
+
+4. 	Laptop Front Screen Protector		200
+
+5. 	SanDisk USB				1300
+
+6. 	Redmi Note 8				30000
+
+7. 	Men Shoes 				2500
